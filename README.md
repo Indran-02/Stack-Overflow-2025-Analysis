@@ -14,8 +14,3 @@ This project analyzes the 2025 Stack Overflow Developer Survey to uncover the "A
 * **Analysis:** PostgreSQL (SQL Window Functions, CTEs).
 * **Visualization:** Seaborn, Matplotlib.
 * **Reporting:** Gamma AI, Microsoft Word (PDF).
-
-## 📂 Deliverables
-* [📄 Full Technical Report (PDF)](./reports/Technical_Report.pdf)
-* [📊 Summary Presentation (PDF)](./presentation/Summary_Slides.pdf)
-* [📓 Exploratory Data Analysis (Notebook)](./notebooks/EDA.ipynb)
